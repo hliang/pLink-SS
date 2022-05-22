@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <dirent.h>
 #include <sys/stat.h>
+#include <unistd.h>
 #include "CommonProcess.h"
 #include "StringUtility.h"
 #include "CalcBioVariable.h"

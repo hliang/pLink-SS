@@ -4,6 +4,7 @@
 #include "../include/interface.h"
 #include "../include/option.h"
 #include "PSMConf.h"
+#include <unistd.h>
 
 using namespace std;
 using namespace proteomics_sdk;

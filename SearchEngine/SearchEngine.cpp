@@ -9,6 +9,7 @@
 #include <iostream>
 #include <limits>
 #include <sys/stat.h>
+#include <unistd.h>
 
 #ifdef WIN32
 #include <direct.h>

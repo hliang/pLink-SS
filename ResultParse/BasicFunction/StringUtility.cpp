@@ -1,4 +1,5 @@
 #include "StringUtility.h"
+#include <unistd.h>
 
 //using namespace proteomics_sdk;
 

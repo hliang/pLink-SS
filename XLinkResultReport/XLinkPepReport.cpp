@@ -1,6 +1,7 @@
 
 #include <iostream>
 #include <string>
+#include <unistd.h>
  
 #include "../include/predefine.h"
 #include "../include/sdk.h"
