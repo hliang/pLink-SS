@@ -1,5 +1,5 @@
-BUILD_DIR := E:/迅雷网盘同步文件夹/工作/pLink_last/pLink_SS_2/build/
-INSTALL_DIR := E:/迅雷网盘同步文件夹/工作/pLink_last/pLink_SS_2/pLink_release/
+BUILD_DIR := /path/to/pLink-SS/build/
+INSTALL_DIR := /path/to/pLink-SS/pLink_release/
 
 CXXFLAGS :=-O3 -Wall -fmessage-length=0
 
